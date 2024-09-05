@@ -1,0 +1,2 @@
+# Coolgpts
+fun prompts
